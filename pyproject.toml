@@ -37,7 +37,7 @@ dynamic = [
   "version",
 ]
 dependencies = [
-  "Django>=3.2.4",
+  "Django>=2.2.24",
   "sqlparse>=0.2",
 ]
 [project.urls]
